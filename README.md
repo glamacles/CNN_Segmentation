@@ -1,2 +1,2 @@
-# CNN-Segmentation
+# CNN Segmentation
 Segmentation networks project notebeooks.
